@@ -1,0 +1,345 @@
+# detail plans -> Merikarttasarjat erikoiskartat. 
+#   py make_sheets.py sheets_scaindex.txt --only B626 --zoom 12 --scale 20000 --prefix FIN # --info "(N2000/Mean)" 
+
+A601_01; 60.650108 28.521977; 60.600271 28.596152; Traficom:Merikarttasarja A public erikoiskartat
+A604_01; 60.586336 27.708604; 60.569418 27.748608; Traficom:Merikarttasarja A public erikoiskartat
+A605_01; 60.473774 27.382764; 60.463573 27.407033; Traficom:Merikarttasarja A public erikoiskartat
+A605_02; 60.518161 27.456097; 60.491909 27.509319; Traficom:Merikarttasarja A public erikoiskartat
+A605_03; 60.459412 27.621945; 60.439411 27.645481; Traficom:Merikarttasarja A public erikoiskartat
+A606_01; 60.420856 27.396936; 60.376070 27.449443; Traficom:Merikarttasarja A public erikoiskartat
+A606_02; 60.354938 27.428611; 60.336902 27.482915; Traficom:Merikarttasarja A public erikoiskartat
+A607_01; 60.473204 27.205254; 60.441901 27.25776; Traficom:Merikarttasarja A public erikoiskartat
+A607_02; 60.497806 27.291923; 60.484405 27.326326; Traficom:Merikarttasarja A public erikoiskartat
+A608_01; 60.301246 27.141934; 60.264393 27.220508; Traficom:Merikarttasarja A public erikoiskartat
+A609_01; 60.494398 26.910236; 60.442728 26.979078; Traficom:Merikarttasarja A public erikoiskartat
+A609_02; 60.574407 27.160242; 60.523237 27.221667; Traficom:Merikarttasarja A public erikoiskartat
+A610_01; 60.448165 26.968577; 60.410228 27.083353; Traficom:Merikarttasarja A public erikoiskartat
+A611_01; 60.441056 26.638560; 60.409387 26.671898; Traficom:Merikarttasarja A public erikoiskartat
+A611_02; 60.350221 26.756908; 60.337720 26.790245; Traficom:Merikarttasarja A public erikoiskartat
+A611_03; 60.482410 26.735211; 60.442724 26.76810; Traficom:Merikarttasarja A public erikoiskartat
+A611_04; 60.479729 26.822716; 60.456293 26.881905; Traficom:Merikarttasarja A public erikoiskartat
+A611_05; 60.437411 26.840238; 60.417725 26.889142; Traficom:Merikarttasarja A public erikoiskartat
+A613_01; 60.371748 26.425222; 60.347713 26.461409; Traficom:Merikarttasarja A public erikoiskartat
+A613_02; 60.389266 26.466889; 60.371881 26.496576; Traficom:Merikarttasarja A public erikoiskartat
+A613_03; 60.377701 26.526893; 60.351515 26.563098; Traficom:Merikarttasarja A public erikoiskartat
+A613_04; 60.383553 26.611897; 60.364384 26.662585; Traficom:Merikarttasarja A public erikoiskartat
+A614_01; 60.283882 26.573571; 60.261046 26.626076; Traficom:Merikarttasarja A public erikoiskartat
+A615_01; 60.326742 26.221882; 60.289372 26.305223; Traficom:Merikarttasarja A public erikoiskartat
+A615_02; 60.454380 26.23187; 60.425211 26.275325; Traficom:Merikarttasarja A public erikoiskartat
+A615_03; 60.375380 26.33105; 60.355694 26.385221; Traficom:Merikarttasarja A public erikoiskartat
+A616_01; 60.294379 26.396878; 60.248542 26.496904; Traficom:Merikarttasarja A public erikoiskartat
+A618_01; 60.304369 26.025207; 60.282701 26.054894; Traficom:Merikarttasarja A public erikoiskartat
+A618_02; 60.321171 26.066857; 60.298519 26.112862; Traficom:Merikarttasarja A public erikoiskartat
+A618_03; 60.291705 26.093528; 60.264368 26.181169; Traficom:Merikarttasarja A public erikoiskartat
+A619_01; 60.277066 25.911853; 60.256030 25.952424; Traficom:Merikarttasarja A public erikoiskartat
+A620_01; 60.254527 25.730179; 60.234359 25.788118; Traficom:Merikarttasarja A public erikoiskartat
+A620_02; 60.219594 25.790186; 60.194358 25.82169; Traficom:Merikarttasarja A public erikoiskartat
+A620_03; 60.248847 25.878521; 60.211028 25.92451; Traficom:Merikarttasarja A public erikoiskartat
+A622_01; 60.288973 25.511831; 60.276022 25.547318; Traficom:Merikarttasarja A public erikoiskartat
+A622_02; 60.328510 25.548513; 60.301024 25.63432; Traficom:Merikarttasarja A public erikoiskartat
+A623_01; 60.177183 25.34435; 60.146846 25.461309; Traficom:Merikarttasarja A public erikoiskartat
+A623_02; 60.235701 25.38683; 60.211016 25.423634; Traficom:Merikarttasarja A public erikoiskartat
+A623_03; 60.261854 25.37516; 60.245184 25.500085; Traficom:Merikarttasarja A public erikoiskartat
+A623_04; 60.227687 25.478519; 60.183501 25.550927; Traficom:Merikarttasarja A public erikoiskartat
+A625_01; 60.135177 25.20018; 60.116008 25.249067; Traficom:Merikarttasarja A public erikoiskartat
+A625_02; 60.253850 25.275172; 60.223514 25.315727; Traficom:Merikarttasarja A public erikoiskartat
+A626_01; 60.174672 24.858992; 60.123167 25.010504; Traficom:Merikarttasarja A public erikoiskartat
+A626_02; 60.164541 25.008484; 60.129337 25.085258; Traficom:Merikarttasarja A public erikoiskartat
+A627_01; 60.097662 24.637654; 60.070159 24.690993; Traficom:Merikarttasarja A public erikoiskartat
+A627_02; 60.101831 24.730992; 60.080712 24.780997; Traficom:Merikarttasarja A public erikoiskartat
+A627_03; 60.158500 24.710986; 60.136831 24.788492; Traficom:Merikarttasarja A public erikoiskartat
+B625_01; 60.135177 25.20018; 60.116008 25.249067; Traficom:Merikarttasarja B erikoiskartat
+B625_02; 60.253850 25.275172; 60.223514 25.315727; Traficom:Merikarttasarja B erikoiskartat
+B626_01; 60.174672 24.858992; 60.123167 25.010504; Traficom:Merikarttasarja B erikoiskartat
+B626_02; 60.164541 25.00850; 60.129337 25.085258; Traficom:Merikarttasarja B erikoiskartat
+B627_01; 60.097662 24.637654; 60.070159 24.690993; Traficom:Merikarttasarja B erikoiskartat
+B627_02; 60.101831 24.730992; 60.080712 24.780997; Traficom:Merikarttasarja B erikoiskartat
+B627_03; 60.158500 24.710986; 60.136831 24.788492; Traficom:Merikarttasarja B erikoiskartat
+B629_01; 59.976819 24.316816; 59.910979 24.507666; Traficom:Merikarttasarja B erikoiskartat
+B629_02; 60.028490 24.393482; 59.961816 24.583498; Traficom:Merikarttasarja B erikoiskartat
+B629_03; 60.060159 24.583488; 60.031823 24.624327; Traficom:Merikarttasarja B erikoiskartat
+B630_01; 59.990145 24.122355; 59.979310 24.151808; Traficom:Merikarttasarja B erikoiskartat
+B630_02; 60.011813 24.176806; 60.001812 24.200975; Traficom:Merikarttasarja B erikoiskartat
+B630_03; 60.030147 24.166803; 60.019313 24.205973; Traficom:Merikarttasarja B erikoiskartat
+B631_01; 59.930978 24.245984; 59.918477 24.269319; Traficom:Merikarttasarja B erikoiskartat
+B632_01; 59.994856 23.869292; 59.974304 23.933464; Traficom:Merikarttasarja B erikoiskartat
+B632_02; 59.983474 23.969298; 59.968473 24.005968; Traficom:Merikarttasarja B erikoiskartat
+B632_03; 59.945973 23.950967; 59.929854 24.026806; Traficom:Merikarttasarja B erikoiskartat
+B633_01; 59.939301 23.759292; 59.922632 23.796795; Traficom:Merikarttasarja B erikoiskartat
+B634_01; 59.947625 23.366771; 59.932623 23.393441; Traficom:Merikarttasarja B erikoiskartat
+B634_02; 59.985127 23.388435; 59.960958 23.441774; Traficom:Merikarttasarja B erikoiskartat
+B635_01; 59.879286 23.252605; 59.855117 23.29511; Traficom:Merikarttasarja B erikoiskartat
+B635_02; 59.918457 23.340106; 59.893454 23.425113; Traficom:Merikarttasarja B erikoiskartat
+B635_03; 59.865956 23.355112; 59.846786 23.441785; Traficom:Merikarttasarja B erikoiskartat
+B636_01; 59.856785 23.17177; 59.816781 23.28428; Traficom:Merikarttasarja B erikoiskartat
+B637A_011; 59.822109 22.954263; 59.814609 22.970931; Traficom:Merikarttasarja B erikoiskartat
+B637_01; 59.855944 22.826753; 59.800105 22.98010; Traficom:Merikarttasarja B erikoiskartat
+B638_01; 59.903444 22.875918; 59.885943 22.900087; Traficom:Merikarttasarja B erikoiskartat
+B640_01; 59.941785 23.061757; 59.883447 23.15010; Traficom:Merikarttasarja B erikoiskartat
+B641_01; 60.075948 22.758395; 60.062613 22.796732; Traficom:Merikarttasarja B erikoiskartat
+B641_02; 60.100951 22.828396; 60.085949 22.871733; Traficom:Merikarttasarja B erikoiskartat
+B641_03; 60.122621 22.950067; 60.110120 22.976736; Traficom:Merikarttasarja B erikoiskartat
+B642_01; 60.387635 23.055045; 60.360132 23.133385; Traficom:Merikarttasarja B erikoiskartat
+B644_01; 59.728428 22.491749; 59.719260 22.508418; Traficom:Merikarttasarja B erikoiskartat
+B645_01; 59.875098 22.368396; 59.849262 22.423401; Traficom:Merikarttasarja B erikoiskartat
+B645_02; 59.918437 22.510065; 59.883434 22.585072; Traficom:Merikarttasarja B erikoiskartat
+B646_01; 60.026774 22.485053; 59.985104 22.561728; Traficom:Merikarttasarja B erikoiskartat
+B646_02; 60.050944 22.655059; 60.037610 22.685062; Traficom:Merikarttasarja B erikoiskartat
+B647_01; 59.879260 22.166719; 59.860091 22.236724; Traficom:Merikarttasarja B erikoiskartat
+B647_02; 59.938428 22.161713; 59.916760 22.206717; Traficom:Merikarttasarja B erikoiskartat
+B647_03; 59.927600 22.34839; 59.900097 22.420062; Traficom:Merikarttasarja B erikoiskartat
+B648_01; 60.036768 22.255041; 60.021766 22.303378; Traficom:Merikarttasarja B erikoiskartat
+B648_02; 59.966765 22.273382; 59.945097 22.31672; Traficom:Merikarttasarja B erikoiskartat
+B648_03; 59.979268 22.351718; 59.943432 22.38339; Traficom:Merikarttasarja B erikoiskartat
+B648_04; 60.023436 22.351714; 60.006768 22.38005; Traficom:Merikarttasarja B erikoiskartat
+B648_05; 59.996771 22.430053; 59.972602 22.478391; Traficom:Merikarttasarja B erikoiskartat
+B649_01; 60.205939 22.123351; 60.160101 22.216693; Traficom:Merikarttasarja B erikoiskartat
+B649_02; 60.160106 22.275029; 60.118437 22.313369; Traficom:Merikarttasarja B erikoiskartat
+B650_01; 60.321846 22.27498; 60.273510 22.329987; Traficom:Merikarttasarja B erikoiskartat
+C714_01; 59.805070 21.331686; 59.768400 21.400026; Traficom:Merikarttasarja C public erikoiskartat
+C722_01; 60.536769 21.496619; 60.500099 21.584961; Traficom:Merikarttasarja C public erikoiskartat
+C732_01; 60.333348 20.976615; 60.286744 21.049957; Traficom:Merikarttasarja C public erikoiskartat
+C732_02; 60.415917 21.026609; 60.402583 21.041611; Traficom:Merikarttasarja C public erikoiskartat
+C732_03; 60.394258 21.156618; 60.346751 21.379967; Traficom:Merikarttasarja C public erikoiskartat
+C733_01; 60.462587 21.044939; 60.423418 21.076611; Traficom:Merikarttasarja C public erikoiskartat
+C733_02; 60.526758 21.041598; 60.478420 21.154942; Traficom:Merikarttasarja C public erikoiskartat
+C734_01; 60.725096 21.023243; 60.718429 21.036578; Traficom:Merikarttasarja C public erikoiskartat
+C738_01; 60.330910 20.724104; 60.280904 20.874949; Traficom:Merikarttasarja C public erikoiskartat
+C739_01; 60.221736 20.704947; 60.208401 20.744951; Traficom:Merikarttasarja C public erikoiskartat
+C739_02; 60.259237 20.717444; 60.250903 20.739946; Traficom:Merikarttasarja C public erikoiskartat
+C740_01; 60.115065 20.671623; 60.083395 20.754964; Traficom:Merikarttasarja C public erikoiskartat
+C740_02; 60.068399 20.769966; 60.018395 20.829974; Traficom:Merikarttasarja C public erikoiskartat
+C741_01; 59.965897 20.861648; 59.937561 20.93332; Traficom:Merikarttasarja C public erikoiskartat
+C741_02; 59.929230 20.906653; 59.898394 20.961659; Traficom:Merikarttasarja C public erikoiskartat
+C745_01; 60.040055 20.344949; 60.009217 20.459958; Traficom:Merikarttasarja C public erikoiskartat
+C746_01; 60.133395 20.416609; 60.083389 20.604957; Traficom:Merikarttasarja C public erikoiskartat
+C747_01; 60.230061 20.403265; 60.213393 20.433269; Traficom:Merikarttasarja C public erikoiskartat
+C751_01; 60.387559 20.073233; 60.372558 20.100736; Traficom:Merikarttasarja C public erikoiskartat
+C752_01; 60.226723 20.224924; 60.200888 20.253261; Traficom:Merikarttasarja C public erikoiskartat
+C752_02; 60.130888 20.286604; 60.105886 20.325775; Traficom:Merikarttasarja C public erikoiskartat
+C752_03; 60.250893 20.304925; 60.224224 20.334096; Traficom:Merikarttasarja C public erikoiskartat
+C752_04; 60.166675 20.378271; 60.154224 20.401607; Traficom:Merikarttasarja C public erikoiskartat
+C753_01; 59.997544 20.06744; 59.970042 20.124946; Traficom:Merikarttasarja C public erikoiskartat
+C753_02; 60.073385 20.249941; 60.055050 20.293278; Traficom:Merikarttasarja C public erikoiskartat
+C754_01; 59.973379 20.137446; 59.946710 20.211619; Traficom:Merikarttasarja C public erikoiskartat
+C756_01; 60.108380 19.846585; 60.038372 20.029934; Traficom:Merikarttasarja C public erikoiskartat
+C756_02; 60.045044 19.846592; 59.975036 20.029924; Traficom:Merikarttasarja C public erikoiskartat
+C757_01; 60.241685 20.004912; 60.230050 20.033248; Traficom:Merikarttasarja C public erikoiskartat
+C757_02; 60.235053 20.073249; 60.212551 20.091586; Traficom:Merikarttasarja C public erikoiskartat
+C761_01; 60.243372 19.519889; 60.211704 19.548227; Traficom:Merikarttasarja C public erikoiskartat
+C761_02; 60.230876 19.671564; 60.209208 19.698235; Traficom:Merikarttasarja C public erikoiskartat
+C762_01; 60.220033 19.27488; 60.183363 19.354888; Traficom:Merikarttasarja C public erikoiskartat
+C763_01; 60.178369 19.496562; 60.162535 19.525731; Traficom:Merikarttasarja C public erikoiskartat
+C763_02; 60.199206 19.588231; 60.150036 19.633238; Traficom:Merikarttasarja C public erikoiskartat
+C953_01; 60.430975 18.783235; 59.741683 20.665094; Traficom:Merikarttasarja C public erikoiskartat
+D701_01; 59.879260 22.166719; 59.860091 22.236724; Traficom:Merikarttasarja D erikoiskartat
+D701_02; 59.938428 22.161713; 59.916760 22.206717; Traficom:Merikarttasarja D erikoiskartat
+D701_03; 59.927600 22.34839; 59.900097 22.420062; Traficom:Merikarttasarja D erikoiskartat
+D702_01; 60.036768 22.255041; 60.021766 22.303378; Traficom:Merikarttasarja D erikoiskartat
+D702_02; 59.966665 22.273382; 59.945097 22.31672; Traficom:Merikarttasarja D erikoiskartat
+D702_03; 59.979268 22.351718; 59.943432 22.38339; Traficom:Merikarttasarja D erikoiskartat
+D702_04; 60.023436 22.351714; 60.006768 22.38005; Traficom:Merikarttasarja D erikoiskartat
+D702_05; 59.996771 22.430053; 59.972602 22.478391; Traficom:Merikarttasarja D erikoiskartat
+D703_01; 60.205939 22.123351; 60.160101 22.216693; Traficom:Merikarttasarja D erikoiskartat
+D703_02; 60.160106 22.275029; 60.118437 22.313369; Traficom:Merikarttasarja D erikoiskartat
+D704_01; 60.321779 22.275013; 60.273443 22.330021; Traficom:Merikarttasarja D erikoiskartat
+D706_01; 60.485114 21.993316; 60.438442 22.109993; Traficom:Merikarttasarja D erikoiskartat
+D706_02; 60.449282 22.096658; 60.395110 22.246671; Traficom:Merikarttasarja D erikoiskartat
+D707_01; 60.348439 21.930827; 60.323436 21.993332; Traficom:Merikarttasarja D erikoiskartat
+D708_01; 60.210100 21.871671; 60.187596 21.973345; Traficom:Merikarttasarja D erikoiskartat
+D709_01; 60.100015 22.025023; 60.068429 22.10503; Traficom:Merikarttasarja D erikoiskartat
+D711_01; 59.874254 21.937542; 59.855918 21.990046; Traficom:Merikarttasarja D erikoiskartat
+D714_01; 59.805070 21.331686; 59.768400 21.399976; Traficom:Merikarttasarja D erikoiskartat
+D714_02; 59.789735 21.363356; 59.781068 21.381024; Traficom:Merikarttasarja D erikoiskartat
+D715_01; 59.837576 21.54336; 59.820074 21.596697; Traficom:Merikarttasarja D erikoiskartat
+D716_01; 59.955915 21.606684; 59.945080 21.665021; Traficom:Merikarttasarja D erikoiskartat
+D716_02; 59.960918 21.718356; 59.945916 21.758359; Traficom:Merikarttasarja D erikoiskartat
+D717_01; 60.117589 21.588334; 60.105919 21.69334; Traficom:Merikarttasarja D erikoiskartat
+D717_02; 60.072591 21.768347; 60.040921 21.825853; Traficom:Merikarttasarja D erikoiskartat
+D718_01; 60.226762 21.598323; 60.160088 21.780005; Traficom:Merikarttasarja D erikoiskartat
+D719_01; 60.262594 21.584985; 60.250091 21.655823; Traficom:Merikarttasarja D erikoiskartat
+D719_02; 60.375099 21.63331; 60.350096 21.709983; Traficom:Merikarttasarja D erikoiskartat
+D720_01; 60.503436 21.608295; 60.483434 21.638299; Traficom:Merikarttasarja D erikoiskartat
+D720_02; 60.471770 21.658301; 60.451768 21.704972; Traficom:Merikarttasarja D erikoiskartat
+D723_01; 60.625098 21.196596; 60.583428 21.271604; Traficom:Merikarttasarja D erikoiskartat
+D723_02; 60.648431 21.202427; 60.632596 21.238264; Traficom:Merikarttasarja D erikoiskartat
+D723_03; 60.667601 21.313263; 60.655934 21.340766; Traficom:Merikarttasarja D erikoiskartat
+D724_01; 60.514260 21.239943; 60.503426 21.261612; Traficom:Merikarttasarja D erikoiskartat
+D724_02; 60.551765 21.322443; 60.524262 21.381615; Traficom:Merikarttasarja D erikoiskartat
+D724_03; 60.500014 21.41912; 60.483430 21.443656; Traficom:Merikarttasarja D erikoiskartat
+D725_01; 60.430094 21.362457; 60.395091 21.429964; Traficom:Merikarttasarja D erikoiskartat
+D727_01; 60.237585 21.321642; 60.230084 21.348311; Traficom:Merikarttasarja D erikoiskartat
+D727_02; 60.230086 21.363311; 60.221751 21.38998; Traficom:Merikarttasarja D erikoiskartat
+D727_03; 60.191753 21.416651; 60.175084 21.468322; Traficom:Merikarttasarja D erikoiskartat
+D727_04; 60.191755 21.494155; 60.160086 21.564162; Traficom:Merikarttasarja D erikoiskartat
+D727_05; 60.191756 21.559991; 60.181755 21.599994; Traficom:Merikarttasarja D erikoiskartat
+D728_01; 60.157581 21.299982; 60.136746 21.328319; Traficom:Merikarttasarja D erikoiskartat
+D728_02; 60.083346 21.323324; 60.067578 21.379995; Traficom:Merikarttasarja D erikoiskartat
+D729_01; 59.991742 21.278331; 59.972573 21.340003; Traficom:Merikarttasarja D erikoiskartat
+D732_01; 60.333348 20.976615; 60.286744 21.049957; Traficom:Merikarttasarja D erikoiskartat
+D732_02; 60.415917 21.026609; 60.402583 21.041611; Traficom:Merikarttasarja D erikoiskartat
+D732_03; 60.394254 21.156618; 60.346751 21.213292; Traficom:Merikarttasarja D erikoiskartat
+D733_01; 60.462587 21.044939; 60.423418 21.076611; Traficom:Merikarttasarja D erikoiskartat
+D733_02; 60.526758 21.041598; 60.478420 21.154942; Traficom:Merikarttasarja D erikoiskartat
+D734_01; 60.725096 21.023243; 60.718429 21.036578; Traficom:Merikarttasarja D erikoiskartat
+D735_01; 60.828443 21.329914; 60.775105 21.421591; Traficom:Merikarttasarja D erikoiskartat
+E801_01; 60.648431 21.202427; 60.632596 21.238264; Traficom:Merikarttasarja E erikoiskartat
+E801_02; 60.725096 21.023243; 60.718429 21.036578; Traficom:Merikarttasarja E erikoiskartat
+E802_01; 60.828443 21.329914; 60.775105 21.421591; Traficom:Merikarttasarja E erikoiskartat
+E802_02; 60.896773 21.146564; 60.853437 21.204905; Traficom:Merikarttasarja E erikoiskartat
+E803_01; 61.036781 21.221553; 60.976777 21.304897; Traficom:Merikarttasarja E erikoiskartat
+E804_01; 61.197626 21.246536; 61.112616 21.493225; Traficom:Merikarttasarja E erikoiskartat
+E807_01; 61.623476 21.419831; 61.590139 21.498172; Traficom:Merikarttasarja E erikoiskartat
+E807_02; 61.548472 21.421506; 61.528470 21.459844; Traficom:Merikarttasarja E erikoiskartat
+E808_01; 61.516813 21.713191; 61.476809 21.818201; Traficom:Merikarttasarja E erikoiskartat
+E809_01; 61.850148 21.31480; 61.821813 21.349805; Traficom:Merikarttasarja E erikoiskartat
+E810_01; 61.891820 21.379798; 61.833481 21.496478; Traficom:Merikarttasarja E erikoiskartat
+E811_01; 61.993486 21.256447; 61.970150 21.303119; Traficom:Merikarttasarja E erikoiskartat
+E811_02; 62.070156 21.278106; 62.033487 21.321446; Traficom:Merikarttasarja E erikoiskartat
+E811_03; 62.141826 21.274764; 62.103489 21.324771; Traficom:Merikarttasarja E erikoiskartat
+E812_01; 62.188494 21.284759; 62.146825 21.339767; Traficom:Merikarttasarja E erikoiskartat
+E812_02; 62.283500 21.26308; 62.225161 21.396427; Traficom:Merikarttasarja E erikoiskartat
+E812_03; 62.400168 21.163061; 62.283494 21.296415; Traficom:Merikarttasarja E erikoiskartat
+F811_01; 61.993486 21.256447; 61.970150 21.303119; Traficom:Merikarttasarja F public erikoiskartat
+F811_02; 62.070156 21.278106; 62.033487 21.321446; Traficom:Merikarttasarja F public erikoiskartat
+F811_03; 62.141826 21.274764; 62.103489 21.324771; Traficom:Merikarttasarja F public erikoiskartat
+F812_01; 62.283500 21.26308; 62.225161 21.396427; Traficom:Merikarttasarja F public erikoiskartat
+F812_02; 62.200162 21.284758; 62.146825 21.341433; Traficom:Merikarttasarja F public erikoiskartat
+F812_03; 62.400168 21.163061; 62.283494 21.296415; Traficom:Merikarttasarja F public erikoiskartat
+F814_01; 62.595170 21.013029; 62.561834 21.07137; Traficom:Merikarttasarja F public erikoiskartat
+F814_02; 62.746844 21.033012; 62.676006 21.108024; Traficom:Merikarttasarja F public erikoiskartat
+F816_01; 62.771846 21.099679; 62.750177 21.146351; Traficom:Merikarttasarja F public erikoiskartat
+F816_02; 62.921851 21.057991; 62.870181 21.113001; Traficom:Merikarttasarja F public erikoiskartat
+F816_03; 62.956855 21.144658; 62.923519 21.212999; Traficom:Merikarttasarja F public erikoiskartat
+F817_01; 63.018523 21.079647; 62.963519 21.171325; Traficom:Merikarttasarja F public erikoiskartat
+F818_01; 62.913525 21.359675; 62.891856 21.41468; Traficom:Merikarttasarja F public erikoiskartat
+F818_02; 63.008528 21.301327; 62.980192 21.383001; Traficom:Merikarttasarja F public erikoiskartat
+F818_03; 63.070197 21.296319; 63.029027 21.368828; Traficom:Merikarttasarja F public erikoiskartat
+F818_04; 63.038533 21.432996; 62.971862 21.508009; Traficom:Merikarttasarja F public erikoiskartat
+F818_05; 63.091868 21.43299; 63.028530 21.481334; Traficom:Merikarttasarja F public erikoiskartat
+F819_01; 63.120206 21.479655; 63.055199 21.629671; Traficom:Merikarttasarja F public erikoiskartat
+F819_02; 63.183540 21.46298; 63.116868 21.562993; Traficom:Merikarttasarja F public erikoiskartat
+F819_03; 63.246875 21.429636; 63.176870 21.529651; Traficom:Merikarttasarja F public erikoiskartat
+F820_01; 63.181866 21.204633; 63.146863 21.26464; Traficom:Merikarttasarja F public erikoiskartat
+F820_02; 63.102868 21.359318; 63.081364 21.47516; Traficom:Merikarttasarja F public erikoiskartat
+F821_01; 63.116853 20.774618; 63.051848 20.884633; Traficom:Merikarttasarja F public erikoiskartat
+F822_01; 63.263521 20.577923; 63.221849 20.699601; Traficom:Merikarttasarja F public erikoiskartat
+F822_02; 63.330201 21.06294; 63.300198 21.129614; Traficom:Merikarttasarja F public erikoiskartat
+F824_01; 63.446289 21.049007; 63.428621 21.123179; Traficom:Merikarttasarja F public erikoiskartat
+F824_02; 63.420122 21.097381; 63.400687 21.163084; Traficom:Merikarttasarja F public erikoiskartat
+F825_01; 63.293395 21.579674; 63.275528 21.602842; Traficom:Merikarttasarja F public erikoiskartat
+F825_02; 63.328898 21.602538; 63.298946 21.660724; Traficom:Merikarttasarja F public erikoiskartat
+F826_01; 63.436699 21.476066; 63.406930 21.53052; Traficom:Merikarttasarja F public erikoiskartat
+F826_02; 63.467022 21.703957; 63.429888 21.753029; Traficom:Merikarttasarja F public erikoiskartat
+F826_03; 63.356901 21.671402; 63.337451 21.731339; Traficom:Merikarttasarja F public erikoiskartat
+F827_01; 63.293583 21.755885; 63.260832 21.782351; Traficom:Merikarttasarja F public erikoiskartat
+F827_02; 63.255771 22.009216; 63.232521 22.049119; Traficom:Merikarttasarja F public erikoiskartat
+F828_01; 63.400228 22.012982; 63.381893 22.041319; Traficom:Merikarttasarja F public erikoiskartat
+F828_02; 63.450232 22.066311; 63.421896 22.114651; Traficom:Merikarttasarja F public erikoiskartat
+F828_03; 63.535237 22.132971; 63.513568 22.179643; Traficom:Merikarttasarja F public erikoiskartat
+F829_01; 63.330299 22.300225; 63.289249 22.370348; Traficom:Merikarttasarja F public erikoiskartat
+F829_02; 63.436050 22.198837; 63.380767 22.306382; Traficom:Merikarttasarja F public erikoiskartat
+F830_01; 63.498488 22.267916; 63.470805 22.325223; Traficom:Merikarttasarja F public erikoiskartat
+F830_02; 63.539559 22.380319; 63.499941 22.464592; Traficom:Merikarttasarja F public erikoiskartat
+F830_03; 63.612761 22.331273; 63.580144 22.404911; Traficom:Merikarttasarja F public erikoiskartat
+F830_04; 63.630966 22.446444; 63.604814 22.508015; Traficom:Merikarttasarja F public erikoiskartat
+F831_01; 63.778673 22.52163; 63.744121 22.579435; Traficom:Merikarttasarja F public erikoiskartat
+F831_02; 63.740105 22.552371; 63.712754 22.604938; Traficom:Merikarttasarja F public erikoiskartat
+F831_03; 63.729425 22.645474; 63.680255 22.711317; Traficom:Merikarttasarja F public erikoiskartat
+F831_04; 63.817527 22.648179; 63.742991 22.677036; Traficom:Merikarttasarja F public erikoiskartat
+F832_01; 63.773582 22.89985; 63.763066 22.949419; Traficom:Merikarttasarja F public erikoiskartat
+F832_02; 63.742529 22.800316; 63.723277 22.829882; Traficom:Merikarttasarja F public erikoiskartat
+F832_03; 63.708808 22.730364; 63.702258 22.749783; Traficom:Merikarttasarja F public erikoiskartat
+F832_04; 63.839693 22.587639; 63.800193 22.631614; Traficom:Merikarttasarja F public erikoiskartat
+F833_01; 63.956939 22.829621; 63.938603 22.871292; Traficom:Merikarttasarja F public erikoiskartat
+F833_02; 63.870273 22.929638; 63.820268 23.062985; Traficom:Merikarttasarja F public erikoiskartat
+F833_03; 63.883315 22.706575; 63.871933 22.775512; Traficom:Merikarttasarja F public erikoiskartat
+F834_01; 63.890976 23.082094; 63.854240 23.133301; Traficom:Merikarttasarja F public erikoiskartat
+F834_02; 63.991347 23.130617; 63.966113 23.176886; Traficom:Merikarttasarja F public erikoiskartat
+F834_03; 63.944549 23.299332; 63.911016 23.383923; Traficom:Merikarttasarja F public erikoiskartat
+F834_04; 63.993853 23.336761; 63.965819 23.400049; Traficom:Merikarttasarja F public erikoiskartat
+F835_01; 64.106959 23.387966; 64.080290 23.442973; Traficom:Merikarttasarja F public erikoiskartat
+F835_02; 64.095297 23.564644; 64.066961 23.65132; Traficom:Merikarttasarja F public erikoiskartat
+G836_01; 64.267993 23.565021; 64.200466 23.849213; Traficom:Merikarttasarja G public erikoiskartat
+G841_01; 64.692009 24.362944; 64.642005 24.429621; Traficom:Merikarttasarja G public erikoiskartat
+G846_02; 65.045833 25.379606; 65.013329 25.474617; Traficom:Merikarttasarja G public erikoiskartat
+G847_01; 65.278720 25.187062; 65.262885 25.251235; Traficom:Merikarttasarja G public erikoiskartat
+G847_02; 65.217069 25.239574; 65.201233 25.292079; Traficom:Merikarttasarja G public erikoiskartat
+G855_01; 65.848335 24.09171; 65.737510 24.208418; Traficom:Merikarttasarja G public erikoiskartat
+G855_02; 65.736409 24.46280; 65.628732 24.678663; Traficom:Merikarttasarja G public erikoiskartat
+J315_01; 61.681916 25.605045; 61.655246 25.688386; Traficom:Merikarttasarja J erikoiskartat
+J319_01; 61.803588 25.686704; 61.780253 25.733375; Traficom:Merikarttasarja J erikoiskartat
+J321_01; 62.018594 25.540005; 62.006925 25.59001; Traficom:Merikarttasarja J erikoiskartat
+J321_02; 62.010264 25.623344; 61.983593 25.746687; Traficom:Merikarttasarja J erikoiskartat
+J323_01; 62.160271 25.66333; 62.116933 25.798342; Traficom:Merikarttasarja J erikoiskartat
+J324_01; 62.250277 25.721657; 62.203604 25.880004; Traficom:Merikarttasarja J erikoiskartat
+L200_01; 61.111953 28.090242; 61.051946 28.295259; Traficom:Merikarttasarja L erikoiskartat
+L201_01; 61.150290 28.270248; 61.106453 28.351924; Traficom:Merikarttasarja L erikoiskartat
+L201_02; 61.185290 28.280245; 61.141121 28.305251; Traficom:Merikarttasarja L erikoiskartat
+L201_03; 61.178628 28.428588; 61.128624 28.516931; Traficom:Merikarttasarja L erikoiskartat
+L202_01; 61.245302 28.681929; 61.194466 28.748604; Traficom:Merikarttasarja L erikoiskartat
+L202_02; 61.258639 28.780267; 61.223636 28.868608; Traficom:Merikarttasarja L erikoiskartat
+L203_01; 61.335300 28.458574; 61.323632 28.483577; Traficom:Merikarttasarja L erikoiskartat
+L203_02; 61.361970 28.538576; 61.346969 28.585247; Traficom:Merikarttasarja L erikoiskartat
+L204_01; 61.312791 28.05522; 61.270288 28.133562; Traficom:Merikarttasarja L erikoiskartat
+L204_02; 61.238959 28.258572; 61.184622 28.327248; Traficom:Merikarttasarja L erikoiskartat
+L205_01; 61.357793 28.08355; 61.310290 28.150226; Traficom:Merikarttasarja L erikoiskartat
+L206_01; 61.285281 27.690202; 61.266946 27.741873; Traficom:Merikarttasarja L erikoiskartat
+L207_01; 61.400618 27.666856; 61.383617 27.708527; Traficom:Merikarttasarja L erikoiskartat
+L208_01; 61.495285 27.480169; 61.450282 27.518509; Traficom:Merikarttasarja L erikoiskartat
+L209_01; 61.558616 27.274318; 61.525280 27.331824; Traficom:Merikarttasarja L erikoiskartat
+L209_02; 61.650786 27.280142; 61.602783 27.313482; Traficom:Merikarttasarja L erikoiskartat
+L209_03; 61.696955 27.264803; 61.661952 27.311809; Traficom:Merikarttasarja L erikoiskartat
+L209_04; 61.548621 27.520166; 61.516952 27.555171; Traficom:Merikarttasarja L erikoiskartat
+L210_01; 61.583627 27.675171; 61.532790 27.736847; Traficom:Merikarttasarja L erikoiskartat
+L211_01; 61.761136 27.784326; 61.710133 27.827667; Traficom:Merikarttasarja L erikoiskartat
+L213_01; 61.543636 28.130201; 61.505299 28.22521; Traficom:Merikarttasarja L erikoiskartat
+L213_02; 61.591972 28.215201; 61.548636 28.265208; Traficom:Merikarttasarja L erikoiskartat
+L216_01; 61.760319 28.471866; 61.693648 28.546043; Traficom:Merikarttasarja L erikoiskartat
+L217_01; 61.791984 28.363523; 61.775315 28.426861; Traficom:Merikarttasarja L erikoiskartat
+L218_01; 61.831992 28.606866; 61.778654 28.673542; Traficom:Merikarttasarja L erikoiskartat
+L218_02; 61.881666 28.855209; 61.855663 28.921882; Traficom:Merikarttasarja L erikoiskartat
+L220_01; 61.665328 29.038575; 61.641159 29.128582; Traficom:Merikarttasarja L erikoiskartat
+L220_02; 61.711162 29.03857; 61.672827 29.070576; Traficom:Merikarttasarja L erikoiskartat
+L221_01; 61.777002 29.163571; 61.758666 29.220243; Traficom:Merikarttasarja L erikoiskartat
+L221_02; 61.807007 29.286908; 61.742002 29.397588; Traficom:Merikarttasarja L erikoiskartat
+L222_01; 61.854009 29.366908; 61.831174 29.417747; Traficom:Merikarttasarja L erikoiskartat
+L223_01; 61.927844 29.280229; 61.905342 29.343568; Traficom:Merikarttasarja L erikoiskartat
+L224_01; 61.902020 29.730258; 61.885351 29.796931; Traficom:Merikarttasarja L erikoiskartat
+M225_01; 61.881333 28.855209; 61.855497 28.931883; Traficom:Merikarttasarja M erikoiskartat
+M226_01; 62.005000 28.689353; 61.983665 28.744525; Traficom:Merikarttasarja M erikoiskartat
+M226_02; 61.953666 28.753529; 61.911997 28.795202; Traficom:Merikarttasarja M erikoiskartat
+M227_01; 62.146173 28.596833; 62.108668 28.755013; Traficom:Merikarttasarja M erikoiskartat
+M228_01; 62.213671 28.418482; 62.177000 28.551994; Traficom:Merikarttasarja M erikoiskartat
+M230_01; 62.319495 27.871772; 62.266991 27.950116; Traficom:Merikarttasarja M erikoiskartat
+M230_02; 62.376831 27.873433; 62.308659 27.97878; Traficom:Merikarttasarja M erikoiskartat
+M231_01; 62.547836 27.768408; 62.458663 27.853756; Traficom:Merikarttasarja M erikoiskartat
+M232_01; 62.617004 27.700063; 62.541165 27.792744; Traficom:Merikarttasarja M erikoiskartat
+M233_01; 62.681837 27.642553; 62.633668 27.693561; Traficom:Merikarttasarja M erikoiskartat
+M233_02; 62.837010 27.605033; 62.787006 27.692711; Traficom:Merikarttasarja M erikoiskartat
+M234_01; 62.899015 27.643362; 62.863677 27.76604; Traficom:Merikarttasarja M erikoiskartat
+M234_02; 62.952852 27.788364; 62.920349 27.833537; Traficom:Merikarttasarja M erikoiskartat
+M234_03; 62.909517 27.834205; 62.892849 27.848541; Traficom:Merikarttasarja M erikoiskartat
+M235_01; 63.058688 27.735849; 63.048187 27.782187; Traficom:Merikarttasarja M erikoiskartat
+M240_01; 62.759020 28.185076; 62.745351 28.235247; Traficom:Merikarttasarja M erikoiskartat
+M241_01; 62.707849 28.115078; 62.693681 28.148581; Traficom:Merikarttasarja M erikoiskartat
+M243_01; 62.582853 28.47928; 62.563684 28.563453; Traficom:Merikarttasarja M erikoiskartat
+M243_02; 62.567522 28.603455; 62.542686 28.684463; Traficom:Merikarttasarja M erikoiskartat
+M243_03; 62.575524 28.675125; 62.564355 28.753798; Traficom:Merikarttasarja M erikoiskartat
+M244_01; 62.778363 28.580098; 62.767028 28.634436; Traficom:Merikarttasarja M erikoiskartat
+M245_01; 62.895036 28.616754; 62.869033 28.671927; Traficom:Merikarttasarja M erikoiskartat
+M246_01; 62.778198 28.680104; 62.771697 28.705273; Traficom:Merikarttasarja M erikoiskartat
+M246_02; 62.677529 28.727951; 62.666194 28.761954; Traficom:Merikarttasarja M erikoiskartat
+M246_03; 62.858204 28.774267; 62.831202 28.812106; Traficom:Merikarttasarja M erikoiskartat
+M247_01; 62.591193 28.792631; 62.580692 28.837801; Traficom:Merikarttasarja M erikoiskartat
+M247_02; 62.553362 28.967645; 62.542028 29.008482; Traficom:Merikarttasarja M erikoiskartat
+M248_01; 62.527354 28.619294; 62.498351 28.67480; Traficom:Merikarttasarja M erikoiskartat
+M249_01; 62.317012 28.63015; 62.286176 28.678823; Traficom:Merikarttasarja M erikoiskartat
+M249_02; 62.334181 28.724321; 62.295012 28.774495; Traficom:Merikarttasarja M erikoiskartat
+M249_03; 62.408684 28.695978; 62.362347 28.768487; Traficom:Merikarttasarja M erikoiskartat
+M250_01; 62.234507 28.591824; 62.195005 28.641164; Traficom:Merikarttasarja M erikoiskartat
+N501_01; 61.545198 23.673289; 61.492692 23.833304; Traficom:Merikarttasarja N erikoiskartat
+N507_01; 61.865214 23.888266; 61.836878 23.946605; Traficom:Merikarttasarja N erikoiskartat
+N509_01; 62.001891 24.061593; 61.950220 24.15327; Traficom:Merikarttasarja N erikoiskartat
+N514_01; 62.135226 23.904903; 62.108556 23.998244; Traficom:Merikarttasarja N erikoiskartat
+N516_01; 62.273559 23.704876; 62.233556 23.771551; Traficom:Merikarttasarja N erikoiskartat

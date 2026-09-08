@@ -1,0 +1,266 @@
+# detail plans -> Merikarttasarjat 
+#   py make_sheets.py sheets_scaindex.txt --only "B*" --zoom 12 --scale 50000 --prefix FIN # --info "(N2000/Mean)" 
+
+A601; 60.749866 28.498633; 60.563269 28.777466; Traficom:Merikarttasarja A public
+A602; 60.625523 28.198628; 60.488259 28.578828; Traficom:Merikarttasarja A public
+A603; 60.556981 27.908618; 60.419417 28.288819; Traficom:Merikarttasarja A public
+A604; 60.584475 27.705271; 60.396911 27.984104; Traficom:Merikarttasarja A public
+A605; 60.527418 27.383592; 60.389737 27.763792; Traficom:Merikarttasarja A public
+A606; 60.428830 27.361934; 60.290732 27.742134; Traficom:Merikarttasarja A public
+A607; 60.530610 27.154413; 60.342730 27.433245; Traficom:Merikarttasarja A public
+A608; 60.360286 27.026922; 60.221888 27.407122; Traficom:Merikarttasarja A public
+A609; 60.581508 26.878559; 60.444061 27.258760; Traficom:Merikarttasarja A public
+A610; 60.461519 26.849403; 60.323555 27.229603; Traficom:Merikarttasarja A public
+A611; 60.495797 26.626887; 60.307716 26.905720; Traficom:Merikarttasarja A public
+A612; 60.344511 26.695239; 60.206047 27.075439; Traficom:Merikarttasarja A public
+A613; 60.494141 26.396875; 60.306044 26.675708; Traficom:Merikarttasarja A public
+A614; 60.358254 26.485226; 60.169374 26.764059; Traficom:Merikarttasarja A public
+A615; 60.460984 26.156032; 60.272704 26.434865; Traficom:Merikarttasarja A public
+A616; 60.340848 26.243548; 60.151867 26.522381; Traficom:Merikarttasarja A public
+A617; 60.493296 25.911849; 60.305199 26.190682; Traficom:Merikarttasarja A public
+A618; 60.323442 25.991870; 60.134361 26.270703; Traficom:Merikarttasarja A public
+A619; 60.419056 25.735180; 60.230525 26.014013; Traficom:Merikarttasarja A public
+A620; 60.262335 25.713528; 60.123521 26.093728; Traficom:Merikarttasarja A public
+A621; 60.273712 25.539351; 60.084348 25.818183; Traficom:Merikarttasarja A public
+A622; 60.387566 25.504338; 60.198852 25.783171; Traficom:Merikarttasarja A public
+A623; 60.274206 25.282671; 60.084842 25.561503; Traficom:Merikarttasarja A public
+A624; 60.115435 25.268519; 59.976004 25.648718; Traficom:Merikarttasarja A public
+A625; 60.260117 25.038493; 60.070669 25.317325; Traficom:Merikarttasarja A public
+A626; 60.214043 24.813485; 60.024329 25.092318; Traficom:Merikarttasarja A public
+A627; 60.190337 24.614811; 60.000490 24.893643; Traficom:Merikarttasarja A public
+A628; 60.048200 24.605157; 59.908486 24.985357; Traficom:Merikarttasarja A public
+B625; 60.260117 25.038493; 60.070669 25.317325; Traficom:Merikarttasarja B
+B626; 60.214043 24.813485; 60.024329 25.092318; Traficom:Merikarttasarja B
+B627; 60.190337 24.614811; 60.000490 24.893643; Traficom:Merikarttasarja B
+B628; 60.048200 24.605157; 59.908486 24.985357; Traficom:Merikarttasarja B
+B629; 60.068709 24.361476; 59.878145 24.640309; Traficom:Merikarttasarja B
+B630; 60.094671 24.015123; 59.955140 24.395322; Traficom:Merikarttasarja B
+B631; 59.995084 24.018466; 59.855136 24.398665; Traficom:Merikarttasarja B
+B632; 60.047478 23.798450; 59.856798 24.077282; Traficom:Merikarttasarja B
+B633; 59.986987 23.555110; 59.795956 23.833942; Traficom:Merikarttasarja B
+B634; 60.098835 23.305087; 59.908454 23.583919; Traficom:Merikarttasarja B
+B635; 59.924529 23.220099; 59.784281 23.600299; Traficom:Merikarttasarja B
+B636; 59.849001 22.896257; 59.708436 23.276456; Traficom:Merikarttasarja B
+B637; 59.860610 22.553406; 59.720095 22.933605; Traficom:Merikarttasarja B
+B638; 59.941933 22.696739; 59.801768 23.076938; Traficom:Merikarttasarja B
+B639; 60.074722 22.691725; 59.935107 23.071924; Traficom:Merikarttasarja B
+B640; 60.071494 23.030909; 59.880946 23.309741; Traficom:Merikarttasarja B
+B641; 60.197526 22.690046; 60.058445 23.070246; Traficom:Merikarttasarja B
+B642; 60.379701 22.841702; 60.190954 23.120535; Traficom:Merikarttasarja B
+B643; 60.326977 22.498357; 60.188445 22.878556; Traficom:Merikarttasarja B
+B644; 59.858118 22.228391; 59.717587 22.608589; Traficom:Merikarttasarja B
+B645; 59.987577 22.362551; 59.847595 22.742750; Traficom:Merikarttasarja B
+B646; 60.163450 22.451705; 59.973436 22.730537; Traficom:Merikarttasarja B
+B647; 59.963501 22.033371; 59.823419 22.413570; Traficom:Merikarttasarja B
+B648; 60.080509 22.158365; 59.940927 22.538564; Traficom:Merikarttasarja B
+B649; 60.190045 22.098351; 60.050930 22.478550; Traficom:Merikarttasarja B
+B650; 60.299584 22.156676; 60.160936 22.536876; Traficom:Merikarttasarja B
+C714; 59.958760 21.163329; 59.767562 21.442162; Traficom:Merikarttasarja C public
+C730; 60.113695 20.984972; 59.923397 21.263804; Traficom:Merikarttasarja C public
+C731; 60.276918 21.016623; 60.087571 21.295456; Traficom:Merikarttasarja C public
+C732; 60.428540 20.986606; 60.240076 21.265439; Traficom:Merikarttasarja C public
+C733; 60.589279 20.969922; 60.401748 21.248755; Traficom:Merikarttasarja C public
+C734; 60.735100 20.896569; 60.548419 21.175403; Traficom:Merikarttasarja C public
+C736; 60.707759 20.663228; 60.520912 20.942061; Traficom:Merikarttasarja C public
+C737; 60.564422 20.728246; 60.376741 21.007079; Traficom:Merikarttasarja C public
+C738; 60.389999 20.651594; 60.251734 21.031793; Traficom:Merikarttasarja C public
+C739; 60.267195 20.678275; 60.128397 21.058474; Traficom:Merikarttasarja C public
+C740; 60.147691 20.683287; 60.008393 21.063486; Traficom:Merikarttasarja C public
+C741; 60.038986 20.656630; 59.899221 21.036829; Traficom:Merikarttasarja C public
+C742; 59.941354 20.963321; 59.750056 21.242154; Traficom:Merikarttasarja C public
+C743; 59.924781 20.714978; 59.733383 20.993810; Traficom:Merikarttasarja C public
+C744; 59.948526 20.391627; 59.808377 20.771826; Traficom:Merikarttasarja C public
+C745; 60.069679 20.344946; 59.930048 20.725145; Traficom:Merikarttasarja C public
+C746; 60.194151 20.344933; 60.055052 20.725132; Traficom:Merikarttasarja C public
+C747; 60.302039 20.358256; 60.163390 20.738455; Traficom:Merikarttasarja C public
+C748; 60.402442 20.358245; 60.264227 20.738445; Traficom:Merikarttasarja C public
+C749; 60.531065 20.403234; 60.393400 20.783433; Traficom:Merikarttasarja C public
+C750; 60.537690 20.068217; 60.400058 20.448417; Traficom:Merikarttasarja C public
+C751; 60.408250 20.003228; 60.270052 20.383427; Traficom:Merikarttasarja C public
+C752; 60.277730 20.163249; 60.088382 20.442082; Traficom:Merikarttasarja C public
+C753; 60.101205 20.006593; 59.961707 20.386792; Traficom:Merikarttasarja C public
+C754; 59.991668 20.023272; 59.851703 20.403471; Traficom:Merikarttasarja C public
+C755; 59.997660 19.781594; 59.806695 20.060426; Traficom:Merikarttasarja C public
+C756; 60.119449 19.731579; 59.980034 20.111778; Traficom:Merikarttasarja C public
+C757; 60.276074 19.941572; 60.086710 20.220405; Traficom:Merikarttasarja C public
+C758; 60.386257 19.763219; 60.197543 20.042052; Traficom:Merikarttasarja C public
+C759; 60.509480 19.729871; 60.371715 20.110070; Traficom:Merikarttasarja C public
+C760; 60.451353 19.388195; 60.313354 19.768410; Traficom:Merikarttasarja C public
+C761; 60.333548 19.383207; 60.195033 19.763406; Traficom:Merikarttasarja C public
+C762; 60.335706 19.128195; 60.146691 19.407028; Traficom:Merikarttasarja C public
+C763; 60.195793 19.388222; 60.056694 19.768420; Traficom:Merikarttasarja C public
+D701; 59.963501 22.033371; 59.823419 22.413570; Traficom:Merikarttasarja D
+D702; 60.080509 22.158365; 59.940927 22.538564; Traficom:Merikarttasarja D
+D703; 60.190045 22.098351; 60.050930 22.478550; Traficom:Merikarttasarja D
+D704; 60.299584 22.156676; 60.160936 22.536876; Traficom:Merikarttasarja D
+D705; 60.419091 22.271670; 60.280943 22.651869; Traficom:Merikarttasarja D
+D706; 60.492935 21.909144; 60.355104 22.289344; Traficom:Merikarttasarja D
+D707; 60.380914 21.911656; 60.242599 22.291855; Traficom:Merikarttasarja D
+D708; 60.280492 21.829996; 60.141760 22.210195; Traficom:Merikarttasarja D
+D709; 60.175937 21.806672; 60.036755 22.186871; Traficom:Merikarttasarja D
+D710; 60.068883 21.836684; 59.929252 22.216883; Traficom:Merikarttasarja D
+D711; 59.963493 21.706688; 59.823411 22.086887; Traficom:Merikarttasarja D
+D712; 59.843985 21.586694; 59.703404 21.966893; Traficom:Merikarttasarja D
+D713; 59.815776 21.256681; 59.675061 21.636880; Traficom:Merikarttasarja D
+D714; 59.958760 21.163329; 59.767562 21.442162; Traficom:Merikarttasarja D
+D715; 59.941900 21.376674; 59.801735 21.756873; Traficom:Merikarttasarja D
+D716; 60.050624 21.502503; 59.910910 21.882702; Traficom:Merikarttasarja D
+D717; 60.165962 21.494991; 60.026747 21.875190; Traficom:Merikarttasarja D
+D718; 60.282236 21.589150; 60.144254 21.969349; Traficom:Merikarttasarja D
+D719; 60.390023 21.576639; 60.251758 21.956838; Traficom:Merikarttasarja D
+D720; 60.501226 21.548292; 60.363428 21.928492; Traficom:Merikarttasarja D
+D721; 60.640667 21.721620; 60.453436 22.000453; Traficom:Merikarttasarja D
+D722; 60.673812 21.463270; 60.486764 21.742103; Traficom:Merikarttasarja D
+D723; 60.701207 21.112417; 60.564258 21.492616; Traficom:Merikarttasarja D
+D724; 60.599136 21.113261; 60.461754 21.493460; Traficom:Merikarttasarja D
+D725; 60.497901 21.218277; 60.360086 21.598476; Traficom:Merikarttasarja D
+D726; 60.381714 21.236623; 60.243416 21.616822; Traficom:Merikarttasarja D
+D727; 60.284627 21.249967; 60.145912 21.630166; Traficom:Merikarttasarja D
+D728; 60.172605 21.191642; 60.033406 21.571841; Traficom:Merikarttasarja D
+D729; 60.059767 21.204988; 59.920069 21.585187; Traficom:Merikarttasarja D
+D730; 60.113695 20.984972; 59.923397 21.263804; Traficom:Merikarttasarja D
+D731; 60.276918 21.016623; 60.087571 21.295456; Traficom:Merikarttasarja D
+D732; 60.428540 20.986606; 60.240076 21.265439; Traficom:Merikarttasarja D
+D733; 60.589279 20.969922; 60.401748 21.248755; Traficom:Merikarttasarja D
+D734; 60.735100 20.896569; 60.548419 21.175403; Traficom:Merikarttasarja D
+D735; 60.818211 21.094070; 60.681762 21.474270; Traficom:Merikarttasarja D
+E800; 60.814102 20.603213; 60.634248 21.128925; Traficom:Merikarttasarja E
+E801; 60.814111 20.956564; 60.634257 21.482275; Traficom:Merikarttasarja E
+E802; 60.952449 20.935715; 60.773428 21.461426; Traficom:Merikarttasarja E
+E803; 61.105788 20.931531; 60.927601 21.457243; Traficom:Merikarttasarja E
+E804; 61.260797 21.046520; 61.083443 21.572232; Traficom:Merikarttasarja E
+E805; 61.376803 21.113177; 61.200116 21.638889; Traficom:Merikarttasarja E
+E806; 61.514309 21.121495; 61.338455 21.647208; Traficom:Merikarttasarja E
+E807; 61.636980 21.121481; 61.461793 21.647194; Traficom:Merikarttasarja E
+E808; 61.738822 21.438152; 61.488469 21.805366; Traficom:Merikarttasarja E
+E809; 61.861987 21.204793; 61.612635 21.572007; Traficom:Merikarttasarja E
+E810; 62.077660 21.111430; 61.830141 21.478644; Traficom:Merikarttasarja E
+E811; 62.226499 21.094745; 61.980147 21.461959; Traficom:Merikarttasarja E
+E812; 62.396838 21.044722; 62.151819 21.411936; Traficom:Merikarttasarja E
+F811; 62.240500 21.094743; 61.980147 21.482793; Traficom:Merikarttasarja F public
+F812; 62.410689 21.044720; 62.151819 21.432771; Traficom:Merikarttasarja F public
+F813; 62.623862 20.941356; 62.366825 21.329407; Traficom:Merikarttasarja F public
+F814; 62.753615 20.701327; 62.575160 21.257078; Traficom:Merikarttasarja F public
+F815; 62.998098 20.502953; 62.744328 20.891005; Traficom:Merikarttasarja F public
+F816; 62.963423 20.861309; 62.709336 21.249361; Traficom:Merikarttasarja F public
+F817; 63.101511 20.661281; 62.925173 21.217033; Traficom:Merikarttasarja F public
+F818; 63.078268 21.122975; 62.825181 21.511027; Traficom:Merikarttasarja F public
+F819; 63.212528 21.136292; 63.036856 21.692044; Traficom:Merikarttasarja F public
+F820; 63.241504 20.821272; 63.066016 21.377023; Traficom:Merikarttasarja F public
+F821; 63.274045 20.574588; 63.022675 20.962640; Traficom:Merikarttasarja F public
+F822; 63.373203 20.577075; 63.198515 21.132827; Traficom:Merikarttasarja F public
+F823; 63.595428 20.711220; 63.346858 21.099273; Traficom:Merikarttasarja F public
+F824; 63.519002 20.957909; 63.345198 21.513662; Traficom:Merikarttasarja F public
+F825; 63.450056 21.362940; 63.200202 21.750993; Traficom:Merikarttasarja F public
+F826; 63.519016 21.474604; 63.345211 22.030356; Traficom:Merikarttasarja F public
+F827; 63.450047 21.671290; 63.200210 22.059343; Traficom:Merikarttasarja F public
+F828; 63.615274 21.796275; 63.366887 22.184328; Traficom:Merikarttasarja F public
+F829; 63.466573 22.006306; 63.216886 22.394359; Traficom:Merikarttasarja F public
+F830; 63.678069 22.148786; 63.430232 22.536840; Traficom:Merikarttasarja F public
+F831; 63.884616 22.367105; 63.638579 22.755158; Traficom:Merikarttasarja F public
+F832; 63.879656 22.652954; 63.633586 23.041008; Traficom:Merikarttasarja F public
+F833; 64.002764 22.567933; 63.831926 23.123687; Traficom:Merikarttasarja F public
+F834; 64.115942 23.029611; 63.871939 23.417665; Traficom:Merikarttasarja F public
+F835; 64.209854 23.166273; 64.040283 23.722027; Traficom:Merikarttasarja F public
+G836; 64.356617 23.400016; 64.176461 23.993592; Traficom:Merikarttasarja G public
+G837; 64.479638 23.362881; 64.300299 23.956456; Traficom:Merikarttasarja G public
+G838; 64.479649 23.814940; 64.300310 24.408516; Traficom:Merikarttasarja G public
+G839; 64.620405 23.814588; 64.441983 24.408164; Traficom:Merikarttasarja G public
+G840; 64.728023 23.679565; 64.550317 24.273141; Traficom:Merikarttasarja G public
+G841; 64.728034 24.127925; 64.550328 24.721501; Traficom:Merikarttasarja G public
+G842; 64.852223 24.127908; 64.675334 24.721484; Traficom:Merikarttasarja G public
+G843; 64.976418 24.403723; 64.800346 24.997317; Traficom:Merikarttasarja G public
+G844; 65.117174 24.403704; 64.942035 24.997281; Traficom:Merikarttasarja G public
+G845; 65.004231 24.899533; 64.828343 25.493127; Traficom:Merikarttasarja G public
+G846; 65.154904 24.899545; 64.979999 25.493123; Traficom:Merikarttasarja G public
+G847; 65.282777 24.899544; 65.108721 25.493121; Traficom:Merikarttasarja G public
+G848; 65.282766 24.457850; 65.108710 25.051428; Traficom:Merikarttasarja G public
+G849; 65.415217 24.312822; 65.242045 24.906400; Traficom:Merikarttasarja G public
+G850; 65.415229 24.776184; 65.242057 25.369762; Traficom:Merikarttasarja G public
+G851; 65.563752 24.775829; 65.391563 25.369424; Traficom:Merikarttasarja G public
+G852; 65.563740 24.312800; 65.391552 24.906395; Traficom:Merikarttasarja G public
+G853; 65.704987 24.588363; 65.533714 25.181942; Traficom:Merikarttasarja G public
+G854; 65.704974 24.098366; 65.533719 24.691944; Traficom:Merikarttasarja G public
+G855; 65.845213 24.062759; 65.674890 24.656338; Traficom:Merikarttasarja G public
+J315; 61.728587 25.566705; 61.578575 25.798067; Traficom:Merikarttasarja J
+J316; 61.744250 25.320023; 61.634405 25.635552; Traficom:Merikarttasarja J
+J317; 61.871250 25.171668; 61.721905 25.403030; Traficom:Merikarttasarja J
+J318; 61.870421 25.368345; 61.721076 25.599708; Traficom:Merikarttasarja J
+J319; 61.872925 25.538355; 61.723580 25.769717; Traficom:Merikarttasarja J
+J320; 61.959259 25.320000; 61.850247 25.635529; Traficom:Merikarttasarja J
+J321; 62.018764 25.518338; 61.870253 25.749700; Traficom:Merikarttasarja J
+J322; 62.044937 25.660009; 61.936092 25.975539; Traficom:Merikarttasarja J
+J323; 62.173106 25.626660; 62.025261 25.858022; Traficom:Merikarttasarja J
+J324; 62.268279 25.646651; 62.160267 25.962180; Traficom:Merikarttasarja J
+L200; 61.185621 27.771883; 61.043605 28.192587; Traficom:Merikarttasarja L
+L201; 61.202297 28.155237; 61.060281 28.575941; Traficom:Merikarttasarja L
+L202; 61.309308 28.445242; 61.167792 28.865947; Traficom:Merikarttasarja L
+L203; 61.441978 28.366892; 61.301129 28.787596; Traficom:Merikarttasarja L
+L204; 61.326133 28.051885; 61.184617 28.472590; Traficom:Merikarttasarja L
+L205; 61.446136 27.963535; 61.305287 28.384239; Traficom:Merikarttasarja L
+L206; 61.320124 27.658530; 61.178608 28.079235; Traficom:Merikarttasarja L
+L207; 61.454461 27.600180; 61.313612 28.020885; Traficom:Merikarttasarja L
+L208; 61.524122 27.238486; 61.383607 27.659191; Traficom:Merikarttasarja L
+L209; 61.698961 27.274303; 61.498612 27.568007; Traficom:Merikarttasarja L
+L210; 61.642631 27.540158; 61.441950 27.833861; Traficom:Merikarttasarja L
+L211; 61.772973 27.561812; 61.633625 27.982517; Traficom:Merikarttasarja L
+L212; 61.639303 27.778505; 61.438622 28.072208; Traficom:Merikarttasarja L
+L213; 61.622807 27.989352; 61.421959 28.283055; Traficom:Merikarttasarja L
+L214; 61.578981 28.266872; 61.438633 28.687577; Traficom:Merikarttasarja L
+L215; 61.770152 28.201849; 61.570303 28.495553; Traficom:Merikarttasarja L
+L216; 61.774324 28.426862; 61.574475 28.720565; Traficom:Merikarttasarja L
+L217; 61.875160 28.240174; 61.736144 28.660879; Traficom:Merikarttasarja L
+L218; 61.909169 28.584357; 61.770320 29.005062; Traficom:Merikarttasarja L
+L219; 61.800498 28.585201; 61.661149 29.005907; Traficom:Merikarttasarja L
+L220; 61.701667 28.875228; 61.561985 29.295933; Traficom:Merikarttasarja L
+L221; 61.831175 28.976888; 61.691993 29.397593; Traficom:Merikarttasarja L
+L222; 61.861017 29.313571; 61.722001 29.734276; Traficom:Merikarttasarja L
+L223; 62.026853 29.273552; 61.828672 29.567256; Traficom:Merikarttasarja L
+L224; 62.053359 29.508563; 61.855345 29.802267; Traficom:Merikarttasarja L
+M225; 61.944503 28.555185; 61.801988 28.987391; Traficom:Merikarttasarja M
+M226; 62.064838 28.416831; 61.922989 28.849038; Traficom:Merikarttasarja M
+M226A; 62.076996 28.296823; 62.016991 28.448505; Traficom:Merikarttasarja M
+M227; 62.185007 28.281811; 62.043658 28.714017; Traficom:Merikarttasarja M
+M228; 62.310509 28.138456; 62.169827 28.570662; Traficom:Merikarttasarja M
+M229; 62.226499 27.872616; 62.085317 28.304822; Traficom:Merikarttasarja M
+M230; 62.349169 27.769263; 62.208653 28.201470; Traficom:Merikarttasarja M
+M231; 62.528006 27.765077; 62.327658 28.066949; Traficom:Merikarttasarja M
+M232; 62.654510 27.575052; 62.515328 28.007259; Traficom:Merikarttasarja M
+M233; 62.838515 27.591699; 62.640333 27.893572; Traficom:Merikarttasarja M
+M234; 63.006189 27.591680; 62.809007 27.893553; Traficom:Merikarttasarja M
+M235; 63.130531 27.626668; 62.993682 28.058876; Traficom:Merikarttasarja M
+M235A; 63.017026 27.880029; 62.938686 28.030047; Traficom:Merikarttasarja M
+M235B; 63.138693 27.821679; 63.120359 27.855016; Traficom:Merikarttasarja M
+M236; 63.130541 28.038359; 62.993692 28.470567; Traficom:Merikarttasarja M
+M239; 63.019033 28.021704; 62.822017 28.323578; Traficom:Merikarttasarja M
+M240; 62.843524 27.827546; 62.705341 28.259753; Traficom:Merikarttasarja M
+M241; 62.722524 28.042572; 62.583675 28.474779; Traficom:Merikarttasarja M
+M242; 62.617017 28.046750; 62.417001 28.348623; Traficom:Merikarttasarja M
+M243; 62.675196 28.358429; 62.536180 28.790637; Traficom:Merikarttasarja M
+M244; 62.846867 28.380078; 62.648685 28.681951; Traficom:Merikarttasarja M
+M245; 62.981376 28.411732; 62.843694 28.843940; Traficom:Merikarttasarja M
+M246; 62.855205 28.580089; 62.657024 28.881962; Traficom:Merikarttasarja M
+M247; 62.668035 28.753454; 62.468686 29.055326; Traficom:Merikarttasarja M
+M248; 62.548360 28.470116; 62.408677 28.902324; Traficom:Merikarttasarja M
+M249; 62.425857 28.565135; 62.285674 28.997342; Traficom:Merikarttasarja M
+M250; 62.307851 28.541813; 62.167002 28.974020; Traficom:Merikarttasarja M
+N501; 61.581868 23.663285; 61.497692 23.903757; Traficom:Merikarttasarja N
+N501A; 61.550201 23.868299; 61.517698 23.948307; Traficom:Merikarttasarja N
+N502; 61.659152 23.552437; 61.575193 23.792909; Traficom:Merikarttasarja N
+N503; 61.659156 23.733280; 61.575197 23.973752; Traficom:Merikarttasarja N
+N503A; 61.663542 23.951625; 61.646872 24.049965; Traficom:Merikarttasarja N
+N504; 61.728971 23.538262; 61.645195 23.778734; Traficom:Merikarttasarja N
+N505; 61.738108 23.663268; 61.654365 23.903740; Traficom:Merikarttasarja N
+N506; 61.842394 23.691591; 61.728536 23.867946; Traficom:Merikarttasarja N
+N507; 61.896849 23.714920; 61.813540 23.955392; Traficom:Merikarttasarja N
+N508; 61.930419 23.869091; 61.816877 24.045446; Traficom:Merikarttasarja N
+N509; 62.003475 23.986589; 61.890216 24.162944; Traficom:Merikarttasarja N
+N510; 62.064928 24.029918; 61.951886 24.206273; Traficom:Merikarttasarja N
+N511; 62.059948 24.176593; 61.946890 24.352948; Traficom:Merikarttasarja N
+N512; 62.059770 24.324934; 61.976894 24.565407; Traficom:Merikarttasarja N
+N513; 62.159566 24.035741; 62.046890 24.212096; Traficom:Merikarttasarja N
+N514; 62.176096 23.819894; 62.093553 24.060366; Traficom:Merikarttasarja N
+N514A; 62.188563 24.011569; 62.171895 24.038239; Traficom:Merikarttasarja N
+N515; 62.211875 23.663215; 62.099383 23.839570; Traficom:Merikarttasarja N
+N516; 62.318145 23.629867; 62.206053 23.806223; Traficom:Merikarttasarja N
+N517; 62.390517 23.629859; 62.308557 23.870331; Traficom:Merikarttasarja N
