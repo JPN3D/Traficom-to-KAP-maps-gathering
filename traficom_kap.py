@@ -318,17 +318,17 @@ def main():
     out = args.out or f'traficom_{args.west:.4f}_{args.south:.4f}_{args.east:.4f}_{args.north:.4f}.kap'
     name = os.path.splitext(os.path.basename(out))[0]
 
-    if args.save_png:
-        img.save(name + '.png')
-        with open(name + '.pgw', 'w') as f:
-            f.write(f'{res}\n0\n0\n{-res}\n'
-                    f"{m['e0'] + (gx0 + 0.5) * res}\n{m['n0'] - (gy0 + 0.5) * res}\n")
-
     print('Quantizing ...')
     try:
         p = img.quantize(colors=MAX_COLORS, method=Image.MEDIANCUT, dither=Image.Dither.NONE)
     except (AttributeError, TypeError):
         p = img.quantize(colors=MAX_COLORS, method=Image.MEDIANCUT)
+
+    if args.save_png:
+        p.save(name + '.png')
+        with open(name + '.pgw', 'w') as f:
+            f.write(f'{res}\n0\n0\n{-res}\n'
+                    f"{m['e0'] + (gx0 + 0.5) * res}\n{m['n0'] - (gy0 + 0.5) * res}\n")
     indices = p.tobytes()
     raw = list(p.getpalette() or [])
     palette = [(tuple(raw[i * 3:i * 3 + 3]) if 3 * i + 2 < len(raw) else (0, 0, 0))
