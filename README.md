@@ -1,6 +1,6 @@
 # Traficom WMTS → KAP Converter
 
-*[Lue suomeksi / Read in Finnish →](README.fi.md)*
+*[Lue suomeksi / Read in Finnish →](LueMinut.md)*
 
 Batch-download Traficom's public nautical-chart WMTS tiles and package them as
 BSB/KAP raster charts, ready to load into OpenCPN, SeaClear, and other
