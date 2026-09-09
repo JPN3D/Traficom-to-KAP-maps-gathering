@@ -1,6 +1,6 @@
 # Traficom WMTS → KAP Converter
 
-*[Lue suomeksi / Read in Finnish →](LueMinut.md)*
+*[Lue suomeksi / Read in Finnish →](README.fi.md)*
 
 Batch-download Traficom's public nautical-chart WMTS tiles and package them as
 BSB/KAP raster charts, ready to load into OpenCPN, SeaClear, and other
@@ -30,6 +30,7 @@ Two scripts are involved:
 |---|---|
 | `traficom_kap.py` | Converts **one** bounding box into a single KAP file |
 | `make_sheets.py` | Batch-processes a catalog of sheets (calls `traficom_kap.py` + `imgkap.exe` per sheet) |
+| `make_catalog.py` | Auto-generates a catalog file from a WMTS layer's bounding box — useful when you don't have pre-defined sheet corner coordinates |
 
 Plus three helper scripts for Windows users who don't want to touch a
 command line:
@@ -140,6 +141,46 @@ The script prints a per-sheet size/tile table and asks **"Proceed? [y/N]"**
 — answer `N` if you just want to sanity-check the numbers first (e.g.
 catching a badly swapped NW/SE corner, which usually shows up as an
 unreasonably huge pixel size or a `bbox outside tile matrix` error).
+
+---
+
+## Auto-generating a catalog with `make_catalog.py`
+
+If you don't have pre-defined sheet corner coordinates — for example when
+working with a layer like `Traficom:Yleiskartat 250k public` that has no
+official sheet index — `make_catalog.py` can generate a catalog automatically
+by dividing the layer's own geographic bounding box into a regular grid of
+tiles.
+
+```bat
+py make_catalog.py --layer "Traficom:Yleiskartat 250k public" ^
+    --dlat 1.5 --dlon 3.0 --prefix YK250 --zoom 10 ^
+    --out sheets_yleiskartat.txt
+```
+
+Then run the generated catalog the same way as any other:
+
+```bat
+py make_sheets.py sheets_yleiskartat.txt --zoom 10 --scale 250000 --prefix FIN
+```
+
+| Option | Description |
+|---|---|
+| `--layer NAME` | Exact WMTS layer identifier (run `py list_layers.py` to find it) |
+| `--dlat N` | Sheet height in degrees latitude (default 1.5) |
+| `--dlon N` | Sheet width in degrees longitude (default 3.0) |
+| `--overlap N` | Fractional overlap between adjacent sheets (default 0.05 = 5%) |
+| `--prefix TEXT` | Sheet ID prefix, e.g. `YK250` → sheet IDs like `YK250_0001` |
+| `--zoom N` | Optional: prints estimated pixel size and tile count per sheet at this zoom, so you can verify the numbers before committing to a full download |
+| `--out FILE` | Output catalog filename |
+
+**Tip:** start with a small test area using `--only` before running the full
+catalog, since overview layers at fine zoom levels can produce very large
+rasters:
+
+```bat
+py make_sheets.py sheets_yleiskartat.txt --only "YK250_0102" --zoom 10 --scale 250000 --prefix FIN
+```
 
 ---
 
