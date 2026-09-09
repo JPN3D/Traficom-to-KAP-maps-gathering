@@ -76,7 +76,7 @@ def header_for(kap_path, txt_path, sid, prefix=None, info=None):
 
 def process(sheet, layer, args):
     sid = sheet['id']
-    tmp_kap, png = f'_tmp_{sid}.kap', f'_tmp_{sid}.png'
+    tmp_kap, png, pgw = f'_tmp_{sid}.kap', f'_tmp_{sid}.png', f'_tmp_{sid}.pgw'
     hf, final = f'{sid}_header.txt', os.path.join(args.outdir, f'{sid}.kap')
     cmd = [sys.executable, 'traficom_kap.py',
            '--west', f"{sheet['west']:.6f}", '--south', f"{sheet['south']:.6f}",
@@ -97,7 +97,7 @@ def process(sheet, layer, args):
     if subprocess.run(cmd).returncode != 0:
         return 'imgkap failed'
     if not args.keep:
-        for f in (tmp_kap, png, hf):
+        for f in (tmp_kap, png, pgw, hf):
             try:
                 os.remove(f)
             except OSError:
@@ -142,7 +142,7 @@ def main():
     s.headers['User-Agent'] = tk.UA
     root = tk.fetch_capabilities(s)
     matrices = tk.parse_tilematrixset(root, tk.TMS_ID)
-    available = {ident for ident, _ in tk.parse_layers(root)}
+    available = {ident for ident, *_ in tk.parse_layers(root)}
     fwd = Transformer.from_crs('EPSG:4326', 'EPSG:3067', always_xy=True)
 
     print(f'\n{"Sheet":8s} {"Layer":42s} {"px":>14s} {"Mpx":>6s} {"tiles":>7s}')
