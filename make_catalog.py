@@ -18,6 +18,22 @@
         py make_catalog.py --layer "Traficom:Yleiskartat 250k public" ^
     --dlat 1.5 --dlon 3.0 --prefix YK250 --zoom 10 --overlap 0.05 ^
     --out sheets_yleiskartat.txt
+    
+    Available maps (09/09/2026:
+    
+    layer#	wmts_identifier
+    1	    Traficom:Merikarttasarja A public
+    2	    Traficom:Merikarttasarja A erikoiskartat
+    3	    Traficom:Merikarttasarja B
+    4	    Traficom:Merikarttasarja B erikoiskartat
+    35	    Traficom:Rannikkokartat public
+    36	    Traficom:Rannikkokarttojen erikoiskartat
+    37	    Traficom:Satamakartat
+    38	    Traficom:Satamakarttojen erikoiskartat
+    41	    Traficom:Yleiskartat 100k public
+    42	    Traficom:Yleiskartat 250k public
+    43	    Traficom:Merikarttasarjat public
+    44	    Traficom:Merikarttasarjojen erikoiskartat
 """
 import argparse, sys
 import requests
